@@ -1,4 +1,3 @@
-# heart_-disease_-prediction-_ML
 # Heart Disease Prediction System
 
 A machine learning system for predicting heart disease risk using 5 key clinical features.
